@@ -4,4 +4,4 @@ My goal is to publish my portfolio website in 2020. The site will display inform
 
 The site will be built on the Django framework and use the Bootstrap 4 framework for styling.
 
-Further updates will follow along the way
+🚀Further updates will follow along the way🚀
